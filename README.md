@@ -1,7 +1,7 @@
-These are 2 detailed list of competitive programming resources for both beginner to advanced. The beginner one tells about basic probelm solving archives and sets, whereas the 
-advanced one is more focused DSA(Data-Structures and Algorithms) Resources.
+These are 2 detailed lists of competitive programming resources for both beginner and advanced people. The beginner one tells about basic problem solving archives and sets, whereas the 
+advanced one is more focused DSA(Data-Structures and Algorithms) resources.
 
-You can also view them through these link -:
+You can also view them through these links -:
 
 ->Beginner - https://docs.google.com/document/d/137SLky81FV-gOU5Jk_HrLebPt_kKuZ5FDyAjrjtXjWc/edit#heading=h.jofvxz9xea2a
 
